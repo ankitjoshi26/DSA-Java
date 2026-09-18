@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MergeArrays",
+            "request": "launch",
+            "mainClass": "MergeArrays",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "FirstDuplicate",
+            "request": "launch",
+            "mainClass": "FirstDuplicate",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "UniqueLetters",
+            "request": "launch",
+            "mainClass": "UniqueLetters",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
             "name": "CircularPrime",
             "request": "launch",
             "mainClass": "CircularPrime",
