@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CircularPrime",
+            "request": "launch",
+            "mainClass": "CircularPrime",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "MajorityElem",
+            "request": "launch",
+            "mainClass": "MajorityElem",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "TwoSum",
+            "request": "launch",
+            "mainClass": "TwoSum",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
             "name": "implement",
             "request": "launch",
             "mainClass": "implement",
