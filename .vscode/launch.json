@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SearchInRotatedArray",
+            "request": "launch",
+            "mainClass": "SearchInRotatedArray",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "Leetcode_Q3",
+            "request": "launch",
+            "mainClass": "Leetcode_Q3",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
             "name": "FreqOfSecondLargest",
             "request": "launch",
             "mainClass": "FreqOfSecondLargest",
